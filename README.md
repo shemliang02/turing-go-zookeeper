@@ -7,6 +7,8 @@ Native Go Zookeeper Client Library
 
 用于turing系统定制服务注册发现
 
+changed by shemliang02
+
 License
 -------
 
